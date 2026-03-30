@@ -25,3 +25,5 @@ replay_pid*
 
 .env
 *.application.yaml
+target/
+src/main/resources/application.yaml
